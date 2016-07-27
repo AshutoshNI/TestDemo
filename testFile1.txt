@@ -12,10 +12,12 @@ Hello Function 1;
 
 asdfggnfryujtr
 zx
+#Bug1: Fix Inventory Summary Issue (i.e. Feature 2)
 
 Function2()
 {
 Added Function 2; 
+Fix Inventory Summary Issue (i.e. Feature 2) ;
 }
 
 x
