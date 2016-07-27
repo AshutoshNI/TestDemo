@@ -13,6 +13,14 @@ Hello Function 1;
 asdfggnfryujtr
 zx
 
+#Feature3: Adding Search Page
+Function3()
+{
+
+Feature 3;
+
+}
+
 Function2()
 {
 Added Function 2; 
