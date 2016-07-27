@@ -3,6 +3,13 @@ sadfsad
 
 sadfsad
 
+Function1()
+{
+Hello Function 1;
+
+}
+
+
 asdfggnfryujtr
 zx
 x
