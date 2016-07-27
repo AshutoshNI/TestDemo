@@ -1,14 +1,25 @@
-Initinal File 1
+Initinal File 
+1
 sadfsad
 
 sadfsad
+
+
 
 Function1()
+
 {
 Hello Function 1;
 
 }
 
+
+
+
+Function2()
+{
+Function 2; 
+}
 
 asdfggnfryujtr
 zx
