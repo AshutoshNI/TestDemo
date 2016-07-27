@@ -1,10 +1,16 @@
 Initinal File 1
 sadfsad
 
-sadfsad
+sadfsad 
 
 asdfggnfryujtr
 zx
+
+Function2()
+{
+Added Function 2; 
+}
+
 x
 zcvzxcvcvfeveed
 
